@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.946,C:\Users\BattiPerdator\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=D:\Delphi embarcadero\ZipDataChecker\Main_ZDC.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,C:\Users\BattiPerdator\Documents\Embarcadero\Studio\Projekte\Unit1.pas=D:\Delphi embarcadero\ZipDataChecker\Main_ZDC.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,=C:\Users\BattiPerdator\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,C:\Users\BattiPerdator\Documents\Embarcadero\Studio\Projekte\Project1.dproj=D:\Delphi embarcadero\ZipDataChecker\ZipDataChecker.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
